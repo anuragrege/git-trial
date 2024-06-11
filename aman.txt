@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-aman ka text
-=======
-anurag randi hai
->>>>>>> Stashed changes
